@@ -3,8 +3,7 @@
 
 Resistor Classification project developed for SEL0421 - Intelligent Systems
 
-A preview of the paper in Portuguese is available in the repository
-
+A preview of the paper in Portuguese is available in the repository with all results and networks used
 
 
 1 - We used a dataset from kaggle with some changes 
