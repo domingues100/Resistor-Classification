@@ -10,4 +10,4 @@ A preview of the paper in Portuguese is available in the repository with all res
 
 The original is available in: https://www.kaggle.com/datasets/eralpozcan/resistor-dataset
 
-But ours is available in this repository
+But ours is available in this repository in Resistors Images folder
